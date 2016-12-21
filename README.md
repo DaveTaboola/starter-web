@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This is a simple website project for showing how to use Git and Github together.
+Adding some text to check rebase.
 
 ## Instruction
 
@@ -20,4 +21,4 @@ Please fork this repo and issue pull request for review
 
 ## Copyrights
 
-Dave e.
+Taboola inc.
