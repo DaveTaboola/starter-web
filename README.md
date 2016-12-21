@@ -15,3 +15,7 @@ This is a simple web project deployment is not mandatory
 Sample website with plenty of files for demos, as stated in the Intro
 
 ## How To Contribute
+
+## Copyrights
+
+Dave e.
