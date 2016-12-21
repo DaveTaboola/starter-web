@@ -22,4 +22,4 @@ Please fork this repo and issue pull request for review
 
 ## Copyrights
 
-Taboola inc.
+Taboola inc. All rights reserved.
